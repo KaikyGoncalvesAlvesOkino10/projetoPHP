@@ -1,6 +1,5 @@
 <?php 
 echo "Primeiro PHP";
-echo "Seganda PHP";
-echo "Terceiro PHP";
-
+//variavel de ambiente
+$num = 10;
  ?>
